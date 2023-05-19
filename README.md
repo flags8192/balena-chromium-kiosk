@@ -1,3 +1,4 @@
+[![balena deploy button](https://www.balena.io/deploy.svg)](https://dashboard.balena-cloud.com/deploy?repoUrl=https://github.com/flags8192/balena-chromium-kiosk)
 # BalenaOS/BalenaCloud RaspberryPi Chromium Kiosk
 This is a simple kiosk for loading a web site in Chromium running on a Raspberry PI using BalenaOS/Balena Cloud. 
 ## Original Source
